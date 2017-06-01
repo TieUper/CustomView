@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\program\\CustomView\\scaleview\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-w360dp-v13\\values-w360dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\tie\\.android\\build-cache\\29fb8578cdd6887ad326f595251ea903f02d03ff\\output\\res\\values-w360dp\\values-w360dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 54,
+                        "endOffset": 340
+                    }
+                }
+            }
+        ]
+    }
+]
